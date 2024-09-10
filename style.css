@@ -170,7 +170,7 @@ transition: .2s;
     }
     .ad-section {
       margin-top: 20px;
-    
+
       padding: 10px;
 
     }
@@ -188,6 +188,32 @@ transition: .2s;
 .links ul {
   text-align: center;
   flex-wrap: nowrap;
+}
+.links ul li{
+  list-style: none;
+  text-decoration:none;
+}
+.links a{
+  text-decoration:none;
+  color: black;
+  font-size: 14px;
+}
+.links ul li{
+
+  padding: 20px;
+
+}
+.links ul {
+text-align: center;
+}
+.links ul li:hover{
+background: #00a79d;
+transition: 0.5s;
+}
+.links ul li:hover a{
+  color: white;
+  transition: 0.2s;
+font-weight: normal;
 }
 
 
