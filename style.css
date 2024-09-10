@@ -170,9 +170,9 @@ transition: .2s;
     }
     .ad-section {
       margin-top: 20px;
-      background-color: #f1f1f1;
+    
       padding: 10px;
-      border: 1px solid #ddd;
+
     }
     #waitTime {
       font-size: 18px;
